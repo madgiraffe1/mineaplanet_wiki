@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "mine-a-planet-wiki",
+  "compatibility_date": "2025-03-10",
+  "pages_build_output_dir": "./out",
+  "assets": {
+    "directory": "./out",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+  "workers_dev": false,
+  "routes": [
+    { "pattern": "mineaplanet.online/*", "zone_name": "mineaplanet.online" },
+    { "pattern": "www.mineaplanet.online/*", "zone_name": "mineaplanet.online" }
+  ]
+}

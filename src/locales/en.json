@@ -1,0 +1,413 @@
+{
+  "site": {
+    "name": "Mine a Planet Wiki",
+    "shortName": "MAP",
+    "game": "Mine a Planet",
+    "platform": "Roblox",
+    "officialUrl": "https://www.roblox.com/games/121125129560252/Mine-a-Planet",
+    "description": "Command laser drones, mine apart a giant voxel planet, evolve your world, and chase ultra-rare drones. Use this hub for codes, beginner priorities, drone upgrades, ore tiers, idle cash, and updates.",
+    "legalNotice": "Unofficial fan guide for Mine a Planet."
+  },
+  "seo": {
+    "home": {
+      "title": "Mine a Planet Wiki - Codes, Guide & Tips",
+      "description": "Command laser drones, mine apart a giant voxel planet, evolve your world, and chase ultra-rare drones. Use this hub for codes, beginner priorities, drone upgrades, ore tiers, idle cash, and updates.",
+      "keywords": "Mine a Planet, Mine a Planet wiki, Mine a Planet guide, Roblox",
+      "ogTitle": "Mine a Planet Wiki",
+      "ogDescription": "Command laser drones, mine apart a giant voxel planet, evolve your world, and chase ultra-rare drones. Use this hub for codes, beginner priorities, drone upgrades, ore tiers, idle cash, and updates.",
+      "twitterTitle": "Mine a Planet Wiki",
+      "twitterDescription": "Command laser drones, mine apart a giant voxel planet, evolve your world, and chase ultra-rare drones. Use this hub for codes, beginner priorities, drone upgrades, ore tiers, idle cash, and updates."
+    }
+  },
+  "nav": {},
+  "common": {
+    "home": "Home",
+    "more": "More",
+    "playNow": "Play on Roblox",
+    "switchLanguage": "Switch language",
+    "switchTheme": "Switch theme",
+    "lightMode": "Light mode",
+    "darkMode": "Dark mode",
+    "notFound": "Not found",
+    "notFoundDescription": "The page you are looking for does not exist.",
+    "backToHome": "Back to home",
+    "relatedArticles": "Related articles",
+    "readMore": "Read more",
+    "articlesComingSoon": "Articles coming soon"
+  },
+  "hero": {
+    "badge": "Roblox Planet Mining Tycoon Guide",
+    "title": "Mine a Planet Wiki",
+    "description": "Command laser drones, mine apart a giant voxel planet, evolve your world, and chase ultra-rare drones. Use this hub for codes, beginner priorities, drone upgrades, ore tiers, idle cash, and updates.",
+    "getFreeCodesCTA": "View Codes",
+    "playOnRobloxCTA": "Play on Roblox",
+    "ctas": [
+      {
+        "label": "Play on Roblox",
+        "href": "https://www.roblox.com/games/121125129560252/Mine-a-Planet"
+      },
+      {
+        "label": "View Codes",
+        "href": "#codes"
+      },
+      {
+        "label": "Beginner Guide",
+        "href": "#beginner-guide"
+      }
+    ],
+    "stats": [
+      {
+        "label": "Platform",
+        "value": "Roblox"
+      },
+      {
+        "label": "Developer",
+        "value": "Skydog Games"
+      },
+      {
+        "label": "Genre",
+        "value": "Incremental Simulator"
+      },
+      {
+        "label": "Max Players",
+        "value": "6"
+      },
+      {
+        "label": "Visits",
+        "value": "366,197+"
+      },
+      {
+        "label": "Updated",
+        "value": "2026-07-15"
+      }
+    ]
+  },
+  "video": {
+    "id": "AcODNvUZi7Y",
+    "title": "I Broke the Entire Planet in Mine a Planet Roblox"
+  },
+  "gameFeature": {
+    "title": "Mine a Planet Gameplay",
+    "description": "Command laser drones, mine apart a giant voxel planet, evolve your world, and chase ultra-rare drones. Use this hub for codes, beginner priorities, drone upgrades, ore tiers, idle cash, and updates."
+  },
+  "tools": {
+    "title": "Mine a Planet",
+    "titleHighlight": "Guide Modules",
+    "subtitle": "Command laser drones, mine apart a giant voxel planet, evolve your world, and chase ultra-rare drones. Use this hub for codes, beginner priorities, drone upgrades, ore tiers, idle cash, and updates.",
+    "cards": []
+  },
+  "modules": {},
+  "faq": {
+    "title": "Mine a Planet FAQ",
+    "subtitle": "Common questions about Mine a Planet.",
+    "items": [
+      {
+        "question": "What is Mine a Planet?",
+        "answer": "Mine a Planet is a Roblox idle tycoon where drones mine a voxel planet, earn cash, and unlock planet and ore progression."
+      },
+      {
+        "question": "Are there Mine a Planet codes?",
+        "answer": "The current source package verifies BETABETA from the Roblox group source. Future codes should be added only from official sources."
+      },
+      {
+        "question": "Does this site cover auto-farm scripts?",
+        "answer": "No. It covers normal gameplay, upgrades, drones, money routes, and official code status only."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Start reading Mine a Planet guides",
+    "description": "Command laser drones, mine apart a giant voxel planet, evolve your world, and chase ultra-rare drones. Use this hub for codes, beginner priorities, drone upgrades, ore tiers, idle cash, and updates.",
+    "exploreGuides": "Explore modules",
+    "joinGame": "Play on Roblox"
+  },
+  "footer": {
+    "title": "Mine a Planet Wiki",
+    "description": "Command laser drones, mine apart a giant voxel planet, evolve your world, and chase ultra-rare drones. Use this hub for codes, beginner priorities, drone upgrades, ore tiers, idle cash, and updates.",
+    "resources": "Resources",
+    "community": "Community",
+    "legal": "Legal",
+    "twitter": "Roblox",
+    "steam": "Roblox",
+    "steamGuide": "Official Game",
+    "itchio": "Creator Group",
+    "about": "About",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Mine a Planet Wiki. Unofficial fan resource.",
+    "disclaimer": "Not affiliated with Skydog Games or Roblox Corporation."
+  },
+  "pages": {},
+  "home": {
+    "latest": "Latest Guides",
+    "categories": "Guide Modules",
+    "all": "All Articles",
+    "read": "Read guide",
+    "firstArticle": "/",
+    "startTitle": "Start with Mine a Planet",
+    "start": [
+      {
+        "title": "Mine a Planet Beginner Guide",
+        "description": "Start with drones, idle mining, cash flow, and your first upgrades."
+      },
+      {
+        "title": "Mine a Planet Codes",
+        "description": "Track the official BETABETA code and future verified codes."
+      },
+      {
+        "title": "Mine a Planet Drones",
+        "description": "Understand drone rarity, rolls, and fleet upgrade priorities."
+      },
+      {
+        "title": "Mine a Planet Planet Evolution",
+        "description": "Follow planet evolution, ore tiers, and larger world progression."
+      }
+    ],
+    "modulesTitle": "Mine a Planet Guide Modules",
+    "modulesDescription": "Use these sections for safe Roblox progression, verified information, and update-aware guide planning.",
+    "modules": [
+      {
+        "id": "codes",
+        "name": "Mine a Planet Codes",
+        "displayType": "code-cards",
+        "description": "Show only official-source codes and rewards.",
+        "highlights": [
+          {
+            "label": "BETABETA",
+            "detail": "Super Alien Treat x1",
+            "badge": "Verified"
+          },
+          {
+            "label": "Source Rule",
+            "detail": "Official Roblox group, game, or developer source only",
+            "badge": "Required"
+          },
+          {
+            "label": "Safety",
+            "detail": "No script, executor, keyless, pastebin, or auto-farm content",
+            "badge": "Required"
+          },
+          {
+            "label": "Update Plan",
+            "detail": "Recheck after Roblox updates",
+            "badge": "Active"
+          }
+        ]
+      },
+      {
+        "id": "beginner-guide",
+        "name": "Mine a Planet Beginner Guide",
+        "displayType": "step-by-step",
+        "description": "Start mining efficiently with drones, cash, and upgrades.",
+        "highlights": [
+          {
+            "label": "1",
+            "detail": "Command a fleet of laser drones"
+          },
+          {
+            "label": "2",
+            "detail": "Mine a giant voxel planet"
+          },
+          {
+            "label": "3",
+            "detail": "Let idle cash climb over time"
+          },
+          {
+            "label": "4",
+            "detail": "Upgrade speed, cargo, and mining power"
+          }
+        ]
+      },
+      {
+        "id": "drones",
+        "name": "Mine a Planet Drones",
+        "displayType": "card-list",
+        "description": "Understand rolls, rarity, and fleet growth.",
+        "highlights": [
+          {
+            "label": "Fleet",
+            "detail": "Command laser drones"
+          },
+          {
+            "label": "Rolls",
+            "detail": "Free unlimited rolls are part of the loop"
+          },
+          {
+            "label": "Rarity",
+            "detail": "Chase rare drones"
+          },
+          {
+            "label": "Upgrade Role",
+            "detail": "Drone performance affects mining speed and cash"
+          }
+        ]
+      },
+      {
+        "id": "planet-evolution",
+        "name": "Mine a Planet Planet Evolution",
+        "displayType": "step-by-step",
+        "description": "Move from one planet stage to larger worlds and rarer ore.",
+        "highlights": [
+          {
+            "label": "1",
+            "detail": "Mine the current voxel planet"
+          },
+          {
+            "label": "2",
+            "detail": "Earn idle cash and upgrades"
+          },
+          {
+            "label": "3",
+            "detail": "Evolve your planet"
+          },
+          {
+            "label": "4",
+            "detail": "Unlock rarer ore and bigger worlds"
+          }
+        ]
+      },
+      {
+        "id": "ore-tiers",
+        "name": "Mine a Planet Ore Tiers",
+        "displayType": "card-list",
+        "description": "Track ore progression without inventing a complete table.",
+        "highlights": [
+          {
+            "label": "Ore Tiers",
+            "detail": "Ore bursts off in tiers"
+          },
+          {
+            "label": "Azurite",
+            "detail": "Listed as an early example ore"
+          },
+          {
+            "label": "Aurum",
+            "detail": "Listed as a later example ore"
+          },
+          {
+            "label": "Full Table",
+            "detail": "Exact complete ore table needs later confirmation"
+          }
+        ]
+      },
+      {
+        "id": "upgrades",
+        "name": "Mine a Planet Upgrades",
+        "displayType": "card-list",
+        "description": "Compare the main upgrade directions.",
+        "highlights": [
+          {
+            "label": "Speed",
+            "detail": "Mine faster"
+          },
+          {
+            "label": "Cargo",
+            "detail": "Carry more value"
+          },
+          {
+            "label": "Mining Power",
+            "detail": "Break planets faster"
+          },
+          {
+            "label": "Fleet Growth",
+            "detail": "Improve drones over time"
+          }
+        ]
+      },
+      {
+        "id": "money-guide",
+        "name": "Mine a Planet Money Guide",
+        "displayType": "step-by-step",
+        "description": "Use the idle tycoon loop for safe money progression.",
+        "highlights": [
+          {
+            "label": "1",
+            "detail": "Use drone swarm auto-mining"
+          },
+          {
+            "label": "2",
+            "detail": "Let cash climb through the idle loop"
+          },
+          {
+            "label": "3",
+            "detail": "Spend on speed, cargo, and mining power"
+          },
+          {
+            "label": "4",
+            "detail": "Avoid auto-farm and exploit routes"
+          }
+        ]
+      },
+      {
+        "id": "updates",
+        "name": "Mine a Planet Updates",
+        "displayType": "card-list",
+        "description": "Track beta changes, code refreshes, and update-sensitive systems.",
+        "highlights": [
+          {
+            "label": "Current Name",
+            "detail": "Mine a Planet BETA 7"
+          },
+          {
+            "label": "Created",
+            "detail": "2026-06-27"
+          },
+          {
+            "label": "Updated",
+            "detail": "2026-07-15"
+          },
+          {
+            "label": "Developer",
+            "detail": "Skydog Games"
+          }
+        ]
+      }
+    ],
+    "aboutTitle": "What is Mine a Planet?",
+    "about": [
+      "Mine a Planet is a Roblox idle tycoon and incremental simulator where players command laser drones to blast apart a voxel planet, generate cash, and evolve their world.",
+      "The official loop emphasizes idle income, drone rarity, planet evolution, ore tiers, free rolls, and speed, cargo, and mining power upgrades."
+    ],
+    "facts": [
+      {
+        "label": "Platform",
+        "value": "Roblox"
+      },
+      {
+        "label": "Developer",
+        "value": "Skydog Games"
+      },
+      {
+        "label": "Genre",
+        "value": "Incremental Simulator"
+      },
+      {
+        "label": "Max Players",
+        "value": "6"
+      },
+      {
+        "label": "Visits",
+        "value": "366,197+"
+      },
+      {
+        "label": "Updated",
+        "value": "2026-07-15"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Mine a Planet?",
+        "answer": "Mine a Planet is a Roblox idle tycoon where drones mine a voxel planet, earn cash, and unlock planet and ore progression."
+      },
+      {
+        "question": "Are there Mine a Planet codes?",
+        "answer": "The current source package verifies BETABETA from the Roblox group source. Future codes should be added only from official sources."
+      },
+      {
+        "question": "Does this site cover auto-farm scripts?",
+        "answer": "No. It covers normal gameplay, upgrades, drones, money routes, and official code status only."
+      }
+    ]
+  }
+}
