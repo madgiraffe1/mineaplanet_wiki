@@ -19,7 +19,15 @@
       "twitterDescription": "Command laser drones, mine apart a giant voxel planet, evolve your world, and chase ultra-rare drones. Use this hub for codes, beginner priorities, drone upgrades, ore tiers, idle cash, and updates."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "walkthrough": "Walkthrough",
+    "catches": "Catches",
+    "equipment": "Equipment",
+    "gallery": "Gallery",
+    "version": "Version",
+    "download": "Download"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -48,11 +56,11 @@
       },
       {
         "label": "View Codes",
-        "href": "#codes"
+        "href": "/codes"
       },
       {
         "label": "Beginner Guide",
-        "href": "#beginner-guide"
+        "href": "/guide/mine-a-planet-beginner-guide"
       }
     ],
     "stats": [
@@ -94,7 +102,43 @@
     "title": "Mine a Planet",
     "titleHighlight": "Guide Modules",
     "subtitle": "Command laser drones, mine apart a giant voxel planet, evolve your world, and chase ultra-rare drones. Use this hub for codes, beginner priorities, drone upgrades, ore tiers, idle cash, and updates.",
-    "cards": []
+    "cards": [
+      {
+        "icon": "BookOpen",
+        "title": "Guide",
+        "description": "Guide articles for Mine a Planet."
+      },
+      {
+        "icon": "Route",
+        "title": "Walkthrough",
+        "description": "Walkthrough articles for Mine a Planet."
+      },
+      {
+        "icon": "Fish",
+        "title": "Catches",
+        "description": "Catches articles for Mine a Planet."
+      },
+      {
+        "icon": "Hammer",
+        "title": "Equipment",
+        "description": "Equipment articles for Mine a Planet."
+      },
+      {
+        "icon": "Images",
+        "title": "Gallery",
+        "description": "Gallery articles for Mine a Planet."
+      },
+      {
+        "icon": "Clock",
+        "title": "Version",
+        "description": "Version articles for Mine a Planet."
+      },
+      {
+        "icon": "Download",
+        "title": "Download",
+        "description": "Download articles for Mine a Planet."
+      }
+    ]
   },
   "modules": {},
   "faq": {
@@ -138,13 +182,154 @@
     "copyright": "© 2026 Mine a Planet Wiki. Unofficial fan resource.",
     "disclaimer": "Not affiliated with Skydog Games or Roblox Corporation."
   },
-  "pages": {},
+  "pages": {
+    "guide": {
+      "categoryLabel": "Mine a Planet Guide",
+      "title": "Mine a Planet Guide",
+      "description": "Mine a Planet guide articles using the original template category layout.",
+      "metaTitle": "Mine a Planet Guide - Mine a Planet Wiki",
+      "metaDescription": "Mine a Planet guide articles, guides, and source-safe notes.",
+      "whatIs": "What is Mine a Planet Guide?",
+      "whatIsDescription": "Guide pages collect Mine a Planet topics while preserving the original template category experience.",
+      "why": "Why read this guide section?",
+      "whySteps": {
+        "step1Title": "Same template structure",
+        "step1Description": "The category page, article cards, dropdown menu, and article detail page follow the original template layout.",
+        "step2Title": "Target-game content",
+        "step2Description": "The copy and article topics are written for Mine a Planet, not copied from the template game.",
+        "step3Title": "Safe updates",
+        "step3Description": "Guide claims can be revised as official pages, patch notes, and reliable gameplay evidence change."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Guide Articles"
+    },
+    "walkthrough": {
+      "categoryLabel": "Mine a Planet Walkthrough",
+      "title": "Mine a Planet Walkthrough",
+      "description": "Mine a Planet walkthrough articles using the original template category layout.",
+      "metaTitle": "Mine a Planet Walkthrough - Mine a Planet Wiki",
+      "metaDescription": "Mine a Planet walkthrough articles, guides, and source-safe notes.",
+      "whatIs": "What is Mine a Planet Walkthrough?",
+      "whatIsDescription": "Walkthrough pages collect Mine a Planet topics while preserving the original template category experience.",
+      "why": "Why read this walkthrough section?",
+      "whySteps": {
+        "step1Title": "Same template structure",
+        "step1Description": "The category page, article cards, dropdown menu, and article detail page follow the original template layout.",
+        "step2Title": "Target-game content",
+        "step2Description": "The copy and article topics are written for Mine a Planet, not copied from the template game.",
+        "step3Title": "Safe updates",
+        "step3Description": "Guide claims can be revised as official pages, patch notes, and reliable gameplay evidence change."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Walkthrough Articles"
+    },
+    "catches": {
+      "categoryLabel": "Mine a Planet Catches",
+      "title": "Mine a Planet Catches",
+      "description": "Mine a Planet catches articles using the original template category layout.",
+      "metaTitle": "Mine a Planet Catches - Mine a Planet Wiki",
+      "metaDescription": "Mine a Planet catches articles, guides, and source-safe notes.",
+      "whatIs": "What is Mine a Planet Catches?",
+      "whatIsDescription": "Catches pages collect Mine a Planet topics while preserving the original template category experience.",
+      "why": "Why read this catches section?",
+      "whySteps": {
+        "step1Title": "Same template structure",
+        "step1Description": "The category page, article cards, dropdown menu, and article detail page follow the original template layout.",
+        "step2Title": "Target-game content",
+        "step2Description": "The copy and article topics are written for Mine a Planet, not copied from the template game.",
+        "step3Title": "Safe updates",
+        "step3Description": "Guide claims can be revised as official pages, patch notes, and reliable gameplay evidence change."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Catches Articles"
+    },
+    "equipment": {
+      "categoryLabel": "Mine a Planet Equipment",
+      "title": "Mine a Planet Equipment",
+      "description": "Mine a Planet equipment articles using the original template category layout.",
+      "metaTitle": "Mine a Planet Equipment - Mine a Planet Wiki",
+      "metaDescription": "Mine a Planet equipment articles, guides, and source-safe notes.",
+      "whatIs": "What is Mine a Planet Equipment?",
+      "whatIsDescription": "Equipment pages collect Mine a Planet topics while preserving the original template category experience.",
+      "why": "Why read this equipment section?",
+      "whySteps": {
+        "step1Title": "Same template structure",
+        "step1Description": "The category page, article cards, dropdown menu, and article detail page follow the original template layout.",
+        "step2Title": "Target-game content",
+        "step2Description": "The copy and article topics are written for Mine a Planet, not copied from the template game.",
+        "step3Title": "Safe updates",
+        "step3Description": "Guide claims can be revised as official pages, patch notes, and reliable gameplay evidence change."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Equipment Articles"
+    },
+    "gallery": {
+      "categoryLabel": "Mine a Planet Gallery",
+      "title": "Mine a Planet Gallery",
+      "description": "Mine a Planet gallery articles using the original template category layout.",
+      "metaTitle": "Mine a Planet Gallery - Mine a Planet Wiki",
+      "metaDescription": "Mine a Planet gallery articles, guides, and source-safe notes.",
+      "whatIs": "What is Mine a Planet Gallery?",
+      "whatIsDescription": "Gallery pages collect Mine a Planet topics while preserving the original template category experience.",
+      "why": "Why read this gallery section?",
+      "whySteps": {
+        "step1Title": "Same template structure",
+        "step1Description": "The category page, article cards, dropdown menu, and article detail page follow the original template layout.",
+        "step2Title": "Target-game content",
+        "step2Description": "The copy and article topics are written for Mine a Planet, not copied from the template game.",
+        "step3Title": "Safe updates",
+        "step3Description": "Guide claims can be revised as official pages, patch notes, and reliable gameplay evidence change."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Gallery Articles"
+    },
+    "version": {
+      "categoryLabel": "Mine a Planet Version",
+      "title": "Mine a Planet Version",
+      "description": "Mine a Planet version articles using the original template category layout.",
+      "metaTitle": "Mine a Planet Version - Mine a Planet Wiki",
+      "metaDescription": "Mine a Planet version articles, guides, and source-safe notes.",
+      "whatIs": "What is Mine a Planet Version?",
+      "whatIsDescription": "Version pages collect Mine a Planet topics while preserving the original template category experience.",
+      "why": "Why read this version section?",
+      "whySteps": {
+        "step1Title": "Same template structure",
+        "step1Description": "The category page, article cards, dropdown menu, and article detail page follow the original template layout.",
+        "step2Title": "Target-game content",
+        "step2Description": "The copy and article topics are written for Mine a Planet, not copied from the template game.",
+        "step3Title": "Safe updates",
+        "step3Description": "Guide claims can be revised as official pages, patch notes, and reliable gameplay evidence change."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Version Articles"
+    },
+    "download": {
+      "categoryLabel": "Mine a Planet Download",
+      "title": "Mine a Planet Download",
+      "description": "Mine a Planet download articles using the original template category layout.",
+      "metaTitle": "Mine a Planet Download - Mine a Planet Wiki",
+      "metaDescription": "Mine a Planet download articles, guides, and source-safe notes.",
+      "whatIs": "What is Mine a Planet Download?",
+      "whatIsDescription": "Download pages collect Mine a Planet topics while preserving the original template category experience.",
+      "why": "Why read this download section?",
+      "whySteps": {
+        "step1Title": "Same template structure",
+        "step1Description": "The category page, article cards, dropdown menu, and article detail page follow the original template layout.",
+        "step2Title": "Target-game content",
+        "step2Description": "The copy and article topics are written for Mine a Planet, not copied from the template game.",
+        "step3Title": "Safe updates",
+        "step3Description": "Guide claims can be revised as official pages, patch notes, and reliable gameplay evidence change."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Download Articles"
+    }
+  },
   "home": {
     "latest": "Latest Guides",
     "categories": "Guide Modules",
     "all": "All Articles",
     "read": "Read guide",
-    "firstArticle": "/",
+    "firstArticle": "/guide/mine-a-planet-beginner-guide",
     "startTitle": "Start with Mine a Planet",
     "start": [
       {

@@ -1,3 +1,130 @@
 {
-  "en": {}
+  "en": {
+    "catches": [
+      {
+        "slug": "mine-a-planet-collection-goals",
+        "file": "mine-a-planet-collection-goals"
+      },
+      {
+        "slug": "mine-a-planet-planet-targets",
+        "file": "mine-a-planet-planet-targets"
+      },
+      {
+        "slug": "mine-a-planet-resources",
+        "file": "mine-a-planet-resources"
+      },
+      {
+        "slug": "mine-a-planet-rewards",
+        "file": "mine-a-planet-rewards"
+      }
+    ],
+    "download": [
+      {
+        "slug": "mine-a-planet-browser-access",
+        "file": "mine-a-planet-browser-access"
+      },
+      {
+        "slug": "mine-a-planet-mobile-access",
+        "file": "mine-a-planet-mobile-access"
+      },
+      {
+        "slug": "mine-a-planet-official-roblox-page",
+        "file": "mine-a-planet-official-roblox-page"
+      },
+      {
+        "slug": "mine-a-planet-safe-play-link",
+        "file": "mine-a-planet-safe-play-link"
+      }
+    ],
+    "equipment": [
+      {
+        "slug": "mine-a-planet-best-upgrade-order",
+        "file": "mine-a-planet-best-upgrade-order"
+      },
+      {
+        "slug": "mine-a-planet-boost-planning",
+        "file": "mine-a-planet-boost-planning"
+      },
+      {
+        "slug": "mine-a-planet-mining-power",
+        "file": "mine-a-planet-mining-power"
+      },
+      {
+        "slug": "mine-a-planet-tool-upgrades",
+        "file": "mine-a-planet-tool-upgrades"
+      }
+    ],
+    "gallery": [
+      {
+        "slug": "mine-a-planet-game-images",
+        "file": "mine-a-planet-game-images"
+      },
+      {
+        "slug": "mine-a-planet-planet-showcase",
+        "file": "mine-a-planet-planet-showcase"
+      },
+      {
+        "slug": "mine-a-planet-update-screenshots",
+        "file": "mine-a-planet-update-screenshots"
+      },
+      {
+        "slug": "mine-a-planet-video-guide",
+        "file": "mine-a-planet-video-guide"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "mine-a-planet-beginner-guide",
+        "file": "mine-a-planet-beginner-guide"
+      },
+      {
+        "slug": "mine-a-planet-how-to-play",
+        "file": "mine-a-planet-how-to-play"
+      },
+      {
+        "slug": "mine-a-planet-progression-tips",
+        "file": "mine-a-planet-progression-tips"
+      },
+      {
+        "slug": "mine-a-planet-starter-route",
+        "file": "mine-a-planet-starter-route"
+      }
+    ],
+    "version": [
+      {
+        "slug": "mine-a-planet-code-watchlist",
+        "file": "mine-a-planet-code-watchlist"
+      },
+      {
+        "slug": "mine-a-planet-new-planets",
+        "file": "mine-a-planet-new-planets"
+      },
+      {
+        "slug": "mine-a-planet-patch-notes",
+        "file": "mine-a-planet-patch-notes"
+      },
+      {
+        "slug": "mine-a-planet-updates",
+        "file": "mine-a-planet-updates"
+      }
+    ],
+    "walkthrough": [
+      {
+        "slug": "mine-a-planet-checkpoint-route",
+        "file": "mine-a-planet-checkpoint-route"
+      },
+      {
+        "slug": "mine-a-planet-mining-route",
+        "file": "mine-a-planet-mining-route"
+      },
+      {
+        "slug": "mine-a-planet-planet-walkthrough",
+        "file": "mine-a-planet-planet-walkthrough"
+      },
+      {
+        "slug": "mine-a-planet-resource-loop",
+        "file": "mine-a-planet-resource-loop"
+      }
+    ]
+  }
 }
